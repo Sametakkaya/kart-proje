@@ -1,4 +1,5 @@
 # Kart
+Angular.io Ve Bulma.io Kullanımı ile Kart Projesi Yapımı Ve Component ten farklı bir Component e Data Geçmek
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.0.0.
 
